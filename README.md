@@ -5,6 +5,7 @@
 * https://lethain.com/profit-and-loss-statement/
 * https://hackaday.com/2025/02/23/learn-assembly-the-ffmpeg-way/
 * https://quuxplusone.github.io/blog/2018/03/29/the-superconstructing-super-elider/
+* https://arne-mertz.de/2016/10/passkey-idiom/
 
 ## C++20 and Modules
 * https://learn.microsoft.com/en-us/cpp/cpp/tutorial-named-modules-cpp?view=msvc-170
